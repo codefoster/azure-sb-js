@@ -1,0 +1,14 @@
+{
+  "name": "race.reader",
+  "version": "0.0.0",
+  "description": "race.reader",
+  "main": "app.js",
+  "author": {
+    "name": "jerfost",
+    "email": ""
+  },
+  "dependencies": {
+    "azure": "^0.10.4",
+    "socket.io-client": "^1.3.3"
+  }
+}
